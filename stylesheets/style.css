@@ -1,0 +1,14 @@
+#content {
+  max-width: 700px;
+  margin: auto;
+  font-family: Computer Modern Serif;
+}
+
+body {
+	background: url("../images/CogAgent_bg3.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	/* background-color: #fff */
+}
