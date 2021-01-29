@@ -10,8 +10,8 @@ While the complexity of this cascade of shocks is formally beyond the capacity o
 In practise, this means:
 
 - *developing the open web as a critical component enabling **emergent adaptation to climate change***
-- *providing humans with the **legal status and functional capabilities of autonomous agents in a formally open web***
--*interpreting human rights and the UN's SDGs and capabilities frameworks in terms of autonomous agents in a formally open web* 
+- *providing humans with the **legal status and functional capabilities of autonomous agents in a formally open web***  
+- *interpreting human rights and the UN's SDGs and capabilities frameworks in terms of autonomous agents in a formally open web* 
 - *accelerating the **widespread adoption of the open web platform over commercial silos for personal and organisational data***
 
 
