@@ -22,4 +22,3 @@ In practise, this means:
 
 Because it centers on human rights, this project is named Pod Zero, the Solid communities' term for *the most local and personal form of data vault.*
 
-![Bookstaber, *The End of Theory*](images/bookstaber.jpg)
